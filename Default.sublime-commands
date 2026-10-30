@@ -1,0 +1,4 @@
+[
+	{ "caption": "Markdown View: Toggle Edit/View", "command": "markdown_view_toggle" },
+	{ "caption": "Preferences: Markdown View Settings", "command": "edit_settings", "args": { "base_file": "${packages}/MarkdownView/MarkdownView.sublime-settings", "default": "{\n\t$0\n}\n" } },
+]

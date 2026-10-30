@@ -1,0 +1,16 @@
+{
+	// Clickable "Preview" button at the end of the first line of Markdown files.
+	"show_button": true,
+
+	// Preview body text size in pixels.
+	"font_size": 15,
+
+	// Re-render the preview while you type.
+	"live_update": true,
+	"update_delay_ms": 300,
+
+	// Colour fenced code blocks with Sublime's syntaxes and your colour scheme.
+	"highlight_code": true,
+
+	"max_image_width": 800,
+}
