@@ -2,6 +2,8 @@
 
 Read Markdown inside Sublime Text 4, rendered like a GitHub page in your own colour scheme. One key toggles between editing and viewing.
 
+<img width="1513" height="1122" alt="sublime_text_2026-10-30_13-02-33" src="https://github.com/user-attachments/assets/d83e7258-bc71-46f9-aa7a-a94d8ec55dec" />
+
 ## Install
 
 1. In Sublime Text, open **Preferences > Browse Packages...**
